@@ -1,1 +1,3 @@
-console.log('Hello world');
+function crearAlerta() {
+    alert('Hello World')
+}
